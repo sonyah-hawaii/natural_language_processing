@@ -6,7 +6,7 @@ This project aims to take an initial look at user interaction on Reddit. Our goa
 Overall, the best models were able to perform quite well. However, the majority of loss was occuring in False Negatives, meaning the models did quite well to predict low interaction, but had most loss occur when trying to predict high interaction. Further goals of this project include incorporating markdown table print statements into the code, and model refinement via optimization on Recall.
 
 ## Data Source:
-- [Reddit's API]("http://www.reddit.com/hot.json)
+- [Reddit's API](http://www.reddit.com/hot.json)
 
 
 ## Table of Contents
