@@ -1,0 +1,15 @@
+##run this file by typing the command conda env create -f nlp_env.yml
+
+name: nlp_env
+dependencies:
+  - numpy
+  - pandas
+  - jupyterlab 
+  - jupyter
+  - seaborn
+  - matplotlib
+  - scikit-learn
+  - requests
+  - json-c
+  - beautifulsoup4
+  - flask
